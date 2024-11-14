@@ -1,0 +1,7 @@
+Manifest.toml
+Manifest-*.toml
+
+JuliaManifest.toml
+JuliaManifest-*.toml
+
+depot/
